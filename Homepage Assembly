@@ -1,0 +1,26 @@
+src/
+├── app/
+│   ├── page.tsx
+│   ├── layout.tsx
+│   └── globals.css
+│
+├── components/
+│   ├── layout/
+│   │   ├── TopBar.tsx
+│   │   ├── Navbar.tsx
+│   │   └── Footer.tsx
+│   │
+│   ├── hero/
+│   │   ├── HeroSection.tsx
+│   │   ├── HeroGrid.tsx
+│   │   ├── FeaturedArticle.tsx
+│   │   └── HeroCard.tsx
+│   │
+│   ├── sidebar/
+│   │   └── TrendingSidebar.tsx
+│   │
+│   └── homepage/
+│       ├── LatestNewsSection.tsx
+│       ├── CategorySection.tsx
+│       ├── NewsletterSection.tsx
+│       └── AdvertisementSection.tsx
