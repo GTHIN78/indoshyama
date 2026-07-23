@@ -1,0 +1,3 @@
+constructor(
+  private readonly prisma: PrismaService,
+) {}
